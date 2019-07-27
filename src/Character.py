@@ -1,3 +1,7 @@
+# Kyle Ehlers
+# 7/26/19
+# This class defines the Character object
+
 class Character:
     hitpoints = 0
     skillpoints = 0
@@ -34,7 +38,7 @@ class Character:
             self.description += 'He does have some pretty serious weaknesses, '
             self.description += 'though. He has a hard time making difficult '
             self.description += 'decisions, he has had three vasectomies (ouch!), '
-            self.descritpion += 'and being around Toby makes him angry and causes '
+            self.description += 'and being around Toby makes him angry and causes '
             self.description += 'him to make bad decisions. As an average man in '
             self.description += 'stature, he has 50 hitpoints. He is extremely '
             self.description += 'lovable and having him on your team will certainly '
