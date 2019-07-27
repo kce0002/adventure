@@ -1,0 +1,100 @@
+Characters:
+1 - Ron Swanson
+    Skills:
+        Woodworking
+        Alcohol Tolerance
+        Facial Hair Growth
+    Weaknesses:
+        People knowing personal information about him
+        Women named "Tammy"
+        Taxes
+2 - Michael Scott
+    Skills:
+        Many disguises - prison mike, date mike, etc.
+        Funny (that's what she said)
+        World's best boss
+    Weaknesses:
+        Toby
+        Bad at making tough decisions
+        3 vasectomies
+3 - Joey Tribbiani
+    Skills:
+        Eating food
+        Acting
+        Getting girls
+    Weaknesses:
+        Sharing food
+        Dumb
+        Bad with money
+4 - Sheldon Cooper
+    Skills:
+        Genius
+        Nerd trivia
+        Video Games
+    Weaknesses:
+        Social Interaction
+        Arrogance
+        Lack of athleticism
+5 - El (Stranger things)
+    Skills:
+        Telekinesis
+        Protective Instincts
+        Multi-dimensional vision
+    Weaknesses:
+        Lack of common sense
+        Eggo Waffles
+        Tunnel Vision
+6 - Hermione Granger
+    Skills:
+        Magic
+        Common Sense
+        Responsibility
+    Weaknesses:
+        Fear of failure
+        Follows rules instead of following instinct
+        Pride
+7 - Robin Scherbatsky
+    Skills:
+        Handguns
+        Singing pop songs
+        Telling the news
+    Weaknesses:
+        Bad with kids
+        Canadian
+        No one watches her on the news
+8 - Homer Simpson
+    Skills:
+        Drinking beer
+        Watching TV 
+        Butt-kisser
+    Weaknesses:
+        Dumb
+        Listening to people
+        Lazy
+9 - Spongebob Squarepants
+    Skills:
+        Jellyfishing
+        Cooking (specifically, making krabby patties)
+        He's always ready
+    Weaknesses:
+        Can't find his name tag
+        Horrible driver
+        Ripped pants
+10 - Jackie Burkhart
+    Strengths:
+        Fashion
+        Wealth
+        Attractive
+    Weaknesses:
+        Dumb
+        Blinded by love
+        Self-centered
+11 - Shrek 
+    Strengths:
+        Strength
+        Powerful stomach
+        Can speak to animals
+    Weaknesses:
+        Easily angered
+        Prefers to be alone
+        Fairytale creatures
