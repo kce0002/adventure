@@ -16,7 +16,7 @@ def welcome(needWelcome):
     # Print the strings and present the options
     if needWelcome:
         print(welcomeString)
-        
+
     print(menuString)
 
     # Get the user's choice
